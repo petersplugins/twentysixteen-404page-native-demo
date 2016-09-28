@@ -18,6 +18,10 @@ This is a WordPress Child Theme based on [Twenty Sixteen](https://wordpress.org/
 - create a custom 404 error page 
 - try to access a non existing page
 
+## How it wokrs
+
+The Child Theme forces WordPress to not use the 404.php in cases of a 404 error but to use the single.php. The single.php was adjusted accordingly to handle 404 errors.
+
 ## Further Reading
 
 For more information see the [404page Plugin Doc](http://petersplugins.com/docs/404page/)
