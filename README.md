@@ -20,7 +20,7 @@ This is a WordPress Child Theme based on [Twenty Sixteen](https://wordpress.org/
 
 ## How it wokrs
 
-The Child Theme forces WordPress to not use the 404.php in cases of a 404 error but to use the single.php. The single.php was adjusted accordingly to handle 404 errors.
+The Child Theme forces WordPress to not use the 404.php in case of a 404 error but to use the single.php. The single.php was adjusted accordingly to handle 404 errors.
 
 ## Further Reading
 
